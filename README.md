@@ -1,4 +1,4 @@
-# Web Scraping with Python using Selenium and BeautifulSoup
+# Web Scraping with Python using Selenium and  (condomenium listings in Bangkok, Thailand)
 
 This is the second episode of web scraping project and we are still working on condomenium listings in Bangkok, Thailand. You can find my first project [here.](https://github.com/ekapope/Baania-webscraping)
 
