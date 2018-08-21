@@ -12,6 +12,9 @@ We were able to specify the input data format, but I wanted to keep the code sim
 [02_Scrape_info_for_each_condo.ipynb](https://github.com/ekapope/web-scraping-using-selenium-and-bs4/blob/master/02_Scrape_info_for_each_condo.ipynb) is using BeautifulSoup to extract the data from each listing. The final output is [df_completed.pkl](https://github.com/ekapope/web-scraping-using-selenium-and-bs4/blob/master/df_completed.pkl) data frame which contains significant infos we scraped of all condos. Noted that some listings were rejected and not written in this file as the pricing data were missing from the page.
 
 Please note:
+
 As always, scraping the website is only allowed for personal use. Given the "sleep" intervals embedded in the code, it gently scrapes the pages so it will take a while to complete the whole operation.
+
+Selenium can be run in headless mode. Check out this handy [guide](https://medium.com/@pyzzled/running-headless-chrome-with-selenium-in-python-3f42d1f5ff1d).
 
 Again, thanks https://www.hipflat.co.th/ for the listing data.
